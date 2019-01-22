@@ -1,0 +1,20 @@
+USB Devices
+Physical Access
+Weak Passwords
+Stolen Mobile Phone
+Web Browsing
+Phishing
+Patching
+Careless Employee
+Disgruntled Employee
+Cross-Site Scripting
+Privilege Escalation
+Denial Of Service
+Injection Flaw
+Vulnerability Scanner
+Session Hijacking
+Unsecured Databases
+Helpdesk Spoofing
+Zero Day
+Weak Configuration
+Geotagging
