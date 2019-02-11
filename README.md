@@ -1,7 +1,7 @@
 # Threat Hunters - A Threat modelling RPG Board game
 ##### The goal is to take turns attacking and defending the system.
 
-[Full Article on Confluence](https://medium.com/@harjitsandhu)
+[Full Article on Confluence](https://medium.com/asos-techblog/learn-how-to-threat-model-using-an-interactive-board-game-6905b338bbfe)
 
 ## Introducing AcmeCorp
 > AcmeCorp is an online retailor. They provide direct to door delivery of Acme related memorabilia and Acmes to people of all ages. Their CEO Acme Ackleson is very concerned about Cyber Security and has committed to invested in the correct places. Luckily the brand-new security team, has the best threat hunters in the world! *That’s you!*
